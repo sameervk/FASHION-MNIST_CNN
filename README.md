@@ -26,7 +26,7 @@ MLP_fashion_mnist_keras
 
 ----------
 
-CNN_fashion-mnist-keras
+CNN_fashion_mnist_keras
 
 * CNNs in high-level API Keras
 * 2 Convolutional layers and 2 Dense Layers
